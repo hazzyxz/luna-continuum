@@ -31,10 +31,10 @@
 ## Structure
 
 ```text
-├─ 0 - Meta/         #
-├─ 1 - Main Notes/   # 
-├─ 2 - Daily Notes/  # 
+├─ 0 - Meta/         # Vault ops: templates, Templater scripts
+├─ 1 - Main Notes/   # Evergreen hub notes & write-ups
+├─ 2 - Daily Notes/  # Logbook/journal for capture → plan/reflect
 ├─ 3 - Projects/     # Outcome-bound work with clear endings
 ├─ 4 - Areas/        # Ongoing responsibilities & standards
 ├─ 5 - Resources/    # References, snippets, literature, seeds
-├─ 6 - Archive/      # Dormant notes kept searchable
+└─ 6 - Archive/      # Dormant notes kept searchable
