@@ -10,7 +10,7 @@
   🗂️ <i>PARA-structured</i> &nbsp;·&nbsp; ⚙️ <i>Automation-first</i> &nbsp;·&nbsp; 🌱 <i>Digital Garden</i>
 </p>
 
-<p align="center">———— ✧ —— ✦ — ✦ — ✦ —— ✧ ————</p>
+<p align="center">——— ✧ —— ✦ — ✦ — ✦ —— ✧ ———</p>
 
 ## Overview
 
