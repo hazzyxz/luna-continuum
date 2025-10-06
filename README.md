@@ -1,4 +1,4 @@
-# 🌙 Luna Continuum 💫
+<h1 align="center">🌙 Luna Continuum 🌗</h1>
 
 *A reflective, automated Obsidian vault for continuous learning and daily knowledge capture.*
 
