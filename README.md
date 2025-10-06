@@ -22,15 +22,11 @@
 - **Automation-first flow.** Daily pages open with a light prompt (title → agenda → tags) and prefilled sections to remove friction.
 - **A record of learning.** Technical explorations, plans, and reflections — captured consistently, linked loosely, reviewed periodically.
 
----
-
 ## Why “Luna Continuum”?
 
 - **Luna** → steady phases, gentle cadence, permission to iterate.
 - **Continuum** → no hard resets; knowledge accretes and recombines.
 - Together → *rhythmic, unbroken growth* in public.
-
----
 
 ## Structure
 
