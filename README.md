@@ -1,4 +1,4 @@
-# luna-continuum
+# Luna Continuum
 
 *A reflective, automated Obsidian vault for continuous learning and daily knowledge capture.*
 
