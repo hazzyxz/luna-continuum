@@ -7,10 +7,9 @@
 ---
 
 <p align="center">
-  <a href="https://obsidian.md">Obsidian-ready</a> ·
-  PARA-styled ·
-  Automation-first ·
-  Digital Garden
+  <a href="https://obsidian.md" target="_blank"><b>Obsidian-ready</b></a>  
+  <br><br>
+  🪐 <i>PARA-styled · Automation-first · Digital Garden</i>
 </p>
 
 ---
