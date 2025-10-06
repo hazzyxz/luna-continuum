@@ -2,7 +2,7 @@
 
 <p align="center"><em>A reflective, automated Obsidian vault for continuous learning and daily knowledge capture.</em></p>
 
-> `luna-continuum` is my public-facing PARA-style notes repository — a living garden of ideas where small, steady iterations compound over time. The name nods to **lunar cycles** (rhythmic growth) and a **continuum** (unbroken flow).
+> `luna-continuum` is my public-facing PARA-style notes template — a living garden of ideas where small, steady iterations compound over time. The name nods to **lunar cycles** (rhythmic growth) and a **continuum** (unbroken flow).
 
 ---
 
