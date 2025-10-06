@@ -14,7 +14,7 @@ Your Daily Notes starts here. Follow the instructions on GitHub for automation o
 ## Tasks
 - [ ] Write the tasks you want to complete today or later
 - [x] Tick your completed tasks to cross them out
-- [ ] Tip: Use the Kanban-Dash-Board if the task is takes longer than a day
+- [ ] Tip: Use the Kanban-Dash-Board if the task is takes longer than a day or within a time frame
 
 ## Reflection
 - What went well:
