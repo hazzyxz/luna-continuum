@@ -1,39 +1,58 @@
-<h1 align="center">🌗 Luna Continuum 💫</h1>
+<h1 align="center">🌗 Luna Continuum</h1>
 
-<p align="center"><em>A reflective, automated Obsidian vault for continuous learning and daily knowledge capture.</em></p>
+<p align="center"><em>A reflective, automated Obsidian vault for continuous learning and note evolution.</em></p>
 
-> `luna-continuum` is my public-facing PARA-style notes template — a living garden of ideas where small, steady iterations compound over time. The name nods to **lunar cycles** (rhythmic growth) and a **continuum** (unbroken flow).
-
-<p align="center">— ✧ — ✦ — ✧ —</p>
+<p align="center">— ✦ —</p>
 
 <p align="center">
   <a href="https://obsidian.md" target="_blank"><b>🪶 Obsidian-ready</b></a>  
   <br><br>
-  🗂️ <i>PARA-styled</i> &nbsp;·&nbsp; ⚙️ <i>Automation-first</i> &nbsp;·&nbsp; 🌱 <i>Digital Garden</i>
+  🗂️ <i>PARA-structured</i> &nbsp;·&nbsp; ⚙️ <i>Automation-first</i> &nbsp;·&nbsp; 🌱 <i>Digital Garden</i>
 </p>
 
-<p align="center">— ✧ — ✦ — ✧ —</p>
+<p align="center">— ✦ —</p>
 
-## At a glance
+---
 
-- **Work-in-progress by design.** Notes evolve through tiny daily edits — not polished “final” docs.
-- **PARA at the core.** *Projects* & *Areas* stay foregrounded; *Resources* & *Archive* keep context close but quiet.
-- **Automation-first flow.** Daily pages open with a light prompt (title → agenda → tags) and prefilled sections to remove friction.
-- **A record of learning.** Technical explorations, plans, and reflections — captured consistently, linked loosely, reviewed periodically.
+## Overview
 
-## Why “Luna Continuum”?
+`luna-continuum` is my public-facing **Obsidian vault** — built around the [PARA](https://fortelabs.co/blog/para/) method for organization, and automated daily note creation.  
+It focuses on steady, low-friction capture and reflection — designed to grow gradually, like a continuous learning loop.
 
-- **Luna** → steady phases, gentle cadence, permission to iterate.
-- **Continuum** → no hard resets; knowledge accretes and recombines.
-- Together → *rhythmic, unbroken growth* in public.
+---
+
+## Core Ideas
+
+- 🧩 **Work in progress by default**  
+  Notes are always evolving; nothing is treated as final.
+
+- 🗂️ **PARA at the core**  
+  *Projects* and *Areas* stay visible and active.  
+  *Resources* and *Archive* keep older knowledge organized but out of the way.
+
+- ⚙️ **Automation-first**  
+  Daily notes open with prompts (title, agenda, tags, mood) to make writing effortless.
+
+- 📚 **Continuous learning**  
+  Technical notes, reflections, and plans are linked lightly and revisited periodically.
+
+---
+
+## Why “Luna Continuum”
+
+- **Luna** → steady rhythm and cycles — a nod to consistency over intensity.  
+- **Continuum** → knowledge that builds and flows without hard resets.  
+- Together, they represent the idea of *learning as an ongoing process*.
+
+---
 
 ## Structure
 
 ```text
-├─ 0 - Meta/         # Vault ops: templates, Templater scripts
-├─ 1 - Main Notes/   # Evergreen hub notes & write-ups
-├─ 2 - Daily Notes/  # Logbook/journal for capture → plan/reflect
-├─ 3 - Projects/     # Outcome-bound work with clear endings
-├─ 4 - Areas/        # Ongoing responsibilities & standards
-├─ 5 - Resources/    # References, snippets, literature, seeds
-└─ 6 - Archive/      # Dormant notes kept searchable
+├─ 0 - Meta/          # Vault ops: templates, Templater scripts, dashboards
+├─ 1 - Main Notes/    # Evergreen notes & write-ups
+├─ 2 - Daily Notes/   # Daily logbook for capture → plan → reflect
+├─ 3 - Projects/      # Outcome-bound work with clear endings
+├─ 4 - Areas/         # Ongoing responsibilities & standards
+├─ 5 - Resources/     # References, literature, snippets, seeds
+└─ 6 - Archive/       # Dormant notes kept searchable
