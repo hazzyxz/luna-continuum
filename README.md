@@ -1,4 +1,4 @@
-<h1 align="center">🌙 Luna Continuum 🌗</h1>
+<h1 align="center">🌗 Luna Continuum ♾️</h1>
 
 <p align="center"><em>A reflective, automated Obsidian vault for continuous learning and daily knowledge capture.</em></p>
 
@@ -31,8 +31,10 @@
 ## Structure
 
 ```text
-├─ 1-Projects/     # Outcome-bound work with clear endings
-├─ 2-Areas/        # Ongoing responsibilities & standards
-├─ 3-Resources/    # References, snippets, literature, seeds
-├─ 4-Archive/      # Dormant notes kept searchable
-└─ Daily/          # Auto-scaffolded daily notes (the heartbeat)
+├─ 0 - Meta/         #
+├─ 1 - Main Notes/   # 
+├─ 2 - Daily Notes/  # 
+├─ 3 - Projects/     # Outcome-bound work with clear endings
+├─ 4 - Areas/        # Ongoing responsibilities & standards
+├─ 5 - Resources/    # References, snippets, literature, seeds
+├─ 6 - Archive/      # Dormant notes kept searchable
