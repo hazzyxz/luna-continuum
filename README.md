@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">✧ — ✦ — ✧</p>
+
 ## At a glance
 
 - **Work-in-progress by design.** Notes evolve through tiny daily edits — not polished “final” docs.
