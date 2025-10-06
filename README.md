@@ -2,7 +2,7 @@
 
 <p align="center"><em>A reflective, automated Obsidian vault for continuous learning and note evolution.</em></p>
 
-<p align="center">———— ✧ —— ✦ — ✦ — ✦ —— ✧ ————</p>
+<p align="center">——— ✧ —— ✦ — ✦ — ✦ —— ✧ ———</p>
 
 <p align="center">
   <a href="https://obsidian.md" target="_blank"><b>🪶 Obsidian-ready</b></a>  
