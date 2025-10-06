@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://obsidian.md">Obsidian-ready</a> ·
-  PARA-structured ·
+  PARA-styled ·
   Automation-first ·
   Digital Garden
 </p>

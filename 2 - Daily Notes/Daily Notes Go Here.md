@@ -4,7 +4,7 @@ time: "02:30 PM"
 mood: "Good 😊"
 tags: [daily, journal]
 ---
-Your Daily Notes starts here. Follow the instructions on GitHub for automation on daily notes. Upon note startup, you will be prompted to input tags and mood for the day.
+(Your Daily Notes starts here. Follow the instructions on GitHub for automation on daily notes. Upon note startup, you will be prompted to input tags and mood for the day. Uses the [[Daily Template]] as template)
 ## Agenda
 - Write your outcomes or what you want to achieve here
 
