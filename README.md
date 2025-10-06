@@ -1,50 +1,55 @@
-<h1 align="center">🌗 Luna Continuum 🌕</h1>
-
-<p align="center"><em>A reflective, automated Obsidian vault for continuous learning and note evolution.</em></p>
-
-<p align="center">——— ✧ —— ✦ — ✦ — ✦ —— ✧ ———</p>
+<h1 align="center">🌙 Luna Continuum 🌑</h1>
 
 <p align="center">
-  <a href="https://obsidian.md" target="_blank"><b>🪶 Obsidian-ready</b></a>  
-  <br><br>
-  🗂️ <i>PARA-structured</i> &nbsp;·&nbsp; ⚙️ <i>Automation-first</i> &nbsp;·&nbsp; 🌱 <i>Digital Garden</i>
+  <em>an evolving garden of thoughts — illuminated by rhythm, reflection, and iteration</em>
 </p>
 
 <p align="center">——— ✧ —— ✦ — ✦ — ✦ —— ✧ ———</p>
+<p align="center">
+  🪶 <a href="https://obsidian.md" target="_blank"><b>Obsidian-ready</b></a> &nbsp;·&nbsp;
+  ⚙️ <b>Automation-first</b> &nbsp;·&nbsp;
+  🗂️ <b>PARA-structured</b> &nbsp;·&nbsp;
+  🌱 <b>Digital Garden</b>
+</p>
+<p align="center">——— ✧ —— ✦ — ✦ — ✦ —— ✧ ———</p>
 
-## Overview
+## 🌔 Overview
 
-`luna-continuum` is my public-facing **Obsidian vault** — built around the [PARA](https://fortelabs.co/blog/para/) method for organization, and automated daily note creation.  
-It focuses on steady, low-friction capture and reflection — designed to grow gradually, like a continuous learning loop.
+`luna-continuum` is a **public-facing Obsidian vault** — an ongoing experiment in thinking, writing, and learning in rhythm.  
+Built upon the [PARA](https://fortelabs.co/blog/para/) framework, it automates the act of daily capture and reflection —  
+a space where ideas orbit, evolve, and align over time.
 
-## Core Ideas
+> _"Not everything grows in daylight — some thoughts need the calm of the moon."_
 
-- 🧩 **Work in progress by default**  
-  Notes are always evolving; nothing is treated as final.
+## 🪞 Philosophy
 
-- 🗂️ **PARA at the core**  
-  *Projects* and *Areas* stay visible and active.  
-  *Resources* and *Archive* keep older knowledge organized but out of the way.
+- **Work in Progress, Always**  
+  Every note is a phase of thought — evolving with context, never static.
 
-- ⚙️ **Automation-first**  
-  Daily notes open with prompts (title, agenda, tags, mood) to make writing effortless.
+- **Low Friction, High Reflection**  
+  Automated prompts (title, agenda, tags, mood) reduce resistance to writing.
 
-- 📚 **Continuous learning**  
-  Technical notes, reflections, and plans are linked lightly and revisited periodically.
+- **PARA at the Core**  
+  Projects and Areas stay alive; Resources and Archives preserve quiet continuity.
 
-## Why “Luna Continuum”
+- **Continuum over Completion**  
+  Knowledge is treated as a living stream — flowing, merging, revisited.
 
-- **Luna** → steady rhythm and cycles — a nod to consistency over intensity.  
-- **Continuum** → knowledge that builds and flows without hard resets.  
-- Together, they represent the idea of *learning as an ongoing process*.
+## 🌕 Name & Symbolism
 
-## Structure
+| Element | Meaning |
+|----------|----------|
+| **Luna** | Cycles, rhythm, and the quiet discipline of daily reflection. |
+| **Continuum** | Knowledge as flow — not a collection of fragments, but a seamless whole. |
+| **Together** | A vault that grows with lunar rhythm: steady, reflective, and unbroken. |
+
+## 🧭 Structure
 
 ```text
-├─ 0 - Meta/          # Vault ops: templates, Templater scripts, dashboards
-├─ 1 - Main Notes/    # Evergreen notes & write-ups
-├─ 2 - Daily Notes/   # Daily logbook for capture → plan → reflect
-├─ 3 - Projects/      # Outcome-bound work with clear endings
-├─ 4 - Areas/         # Ongoing responsibilities & standards
-├─ 5 - Resources/     # References, literature, snippets, seeds
-└─ 6 - Archive/       # Dormant notes kept searchable
+├─ 0 - Meta/          # Foundations: templates, scripts, dashboards
+├─ 1 - Main Notes/    # Evergreen writing, essays, ideas in motion
+├─ 2 - Daily Notes/   # Daily capture → plan → reflect loop
+├─ 3 - Projects/      # Active, outcome-bound initiatives
+├─ 4 - Areas/         # Ongoing roles, responsibilities, and habits
+├─ 5 - Resources/     # References, learnings, seeds for future thought
+└─ 6 - Archive/       # Dormant but not forgotten — searchable past cycles
