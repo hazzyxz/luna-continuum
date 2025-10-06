@@ -38,8 +38,6 @@ It focuses on steady, low-friction capture and reflection — designed to grow g
 - **Continuum** → knowledge that builds and flows without hard resets.  
 - Together, they represent the idea of *learning as an ongoing process*.
 
----
-
 ## Structure
 
 ```text
