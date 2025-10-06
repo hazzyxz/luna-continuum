@@ -1,0 +1,1 @@
+Any folders / notes with anything you plan to do long term goes here. (e.g. Finance, Learning an App, etc)

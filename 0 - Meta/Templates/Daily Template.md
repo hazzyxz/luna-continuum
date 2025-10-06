@@ -9,20 +9,17 @@ const tags = tagInput
   .split(",")
   .map(t => t.trim().replace(/^#/, ""))
   .filter(Boolean);
+const tagsYaml = tags.map(t => `"${t}"`).join(", ");
 
-const moodOptions = ["1 😫","2 😣","3 😔","4 😕","5 😐","6 🙂","7 😊","8 😄","9 🤩","10 🥳"];
-const mood = await tp.system.suggester(moodOptions, moodOptions) ?? "5 😐";
+const moodOptions = ["Bad 😫","Good 🙂","Great 🤩"];
+const mood = await tp.system.suggester(moodOptions, moodOptions) ?? "Good 🙂";
 -%>
 ---
-title: "<% tp.file.title || tp.date.now('YYYY-MM-DD') %>"
 date: "<% tp.date.now('dddd, DD MMMM YYYY') %>"
 time_created: "<% tp.file.creation_date('HH:mm') %>"
 mood: "<% mood %>"
-tags: [<% tags.join(', ') %>]
+tags: [<% tagsYaml %>]
 ---
-
-# <% tp.file.title || tp.date.now("YYYY-MM-DD") %>
-
 ## Agenda
 - 
 
