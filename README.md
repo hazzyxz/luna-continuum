@@ -3,8 +3,6 @@
 <p align="center">
   <em>an evolving garden of thoughts — illuminated by rhythm, reflection, and iteration</em>
 </p>
-
-<p align="center">——— ✧ —— ✦ — ✦ — ✦ —— ✧ ———</p>
 <p align="center">
   🪶 <a href="https://obsidian.md" target="_blank"><b>Obsidian-ready</b></a> &nbsp;·&nbsp;
   ⚙️ <b>Automation-first</b> &nbsp;·&nbsp;
@@ -15,8 +13,7 @@
 
 ## 🌔 Overview
 
-`luna-continuum` is a **public-facing Obsidian vault** — an ongoing experiment in thinking, writing, and learning in rhythm.  
-Built upon the [PARA](https://fortelabs.co/blog/para/) framework, it automates the act of daily capture and reflection —  
+`luna-continuum` is a **public-facing Obsidian vault** — an ongoing experiment in thinking, writing, and learning in rhythm. Built upon the [PARA](https://fortelabs.co/blog/para/) framework, it automates the act of daily capture and reflection —  
 a space where ideas orbit, evolve, and align over time.
 
 > _"Not everything grows in daylight — some thoughts need the calm of the moon."_
