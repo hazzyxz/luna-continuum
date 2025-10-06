@@ -31,7 +31,6 @@
 ## Structure
 
 ```text
-|
 ├─ 1-Projects/     # Outcome-bound work with clear endings
 ├─ 2-Areas/        # Ongoing responsibilities & standards
 ├─ 3-Resources/    # References, snippets, literature, seeds
