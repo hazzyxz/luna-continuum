@@ -4,15 +4,15 @@
 
 > `luna-continuum` is my public-facing PARA-style notes template — a living garden of ideas where small, steady iterations compound over time. The name nods to **lunar cycles** (rhythmic growth) and a **continuum** (unbroken flow).
 
----
+<p align="center">✦ ✦ ✦</p>
 
 <p align="center">
-  <a href="https://obsidian.md" target="_blank"><b>Obsidian-ready</b></a>  
+  <a href="https://obsidian.md" target="_blank"><b>🪶 Obsidian-ready</b></a>  
   <br><br>
-  🪐 <i>PARA-styled · Automation-first · Digital Garden</i>
+  🗂️ <i>PARA-styled</i> &nbsp;·&nbsp; ⚙️ <i>Automation-first</i> &nbsp;·&nbsp; 🌱 <i>Digital Garden</i>
 </p>
 
----
+<p align="center">✦ ✦ ✦</p>
 
 ## At a glance
 
