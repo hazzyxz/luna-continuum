@@ -1,4 +1,4 @@
-<h1 align="center">🌗 Luna Continuum ♾️</h1>
+<h1 align="center">🌗 Luna Continuum 💫</h1>
 
 <p align="center"><em>A reflective, automated Obsidian vault for continuous learning and daily knowledge capture.</em></p>
 
