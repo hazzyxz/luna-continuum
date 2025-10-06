@@ -25,3 +25,4 @@ Your Daily Notes starts here. Follow the instructions on GitHub for automation o
 
 ## References
 - Write links or references to websites or docs here
+- Tip: Link to other notes for network building [[Project Folders Go Here]]
