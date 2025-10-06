@@ -14,8 +14,7 @@
 
 ## 🌔 Overview
 
-`luna-continuum` is a **public-facing Obsidian vault** — an ongoing experiment in thinking, writing, and learning in rhythm. Built upon the [PARA](https://fortelabs.co/blog/para/) framework, it automates the act of daily capture and reflection —  
-a space where ideas orbit, evolve, and align over time.
+`luna-continuum` is a **public-facing Obsidian vault** — an ongoing experiment in thinking, writing, and learning in rhythm. Built upon the [PARA](https://fortelabs.co/blog/para/) framework, it automates the act of daily capture and reflection —  a space where ideas orbit, evolve, and align over time.
 
 > _"Not everything grows in daylight — some thoughts need the calm of the moon."_
 
