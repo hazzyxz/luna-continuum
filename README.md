@@ -3,6 +3,7 @@
 <p align="center">
   <em>an evolving garden of thoughts — illuminated by rhythm, reflection, and iteration</em>
 </p>
+
 <p align="center">
   🪶 <a href="https://obsidian.md" target="_blank"><b>Obsidian-ready</b></a> &nbsp;·&nbsp;
   ⚙️ <b>Automation-first</b> &nbsp;·&nbsp;
