@@ -12,14 +12,10 @@
 
 <p align="center">— ✦ —</p>
 
----
-
 ## Overview
 
 `luna-continuum` is my public-facing **Obsidian vault** — built around the [PARA](https://fortelabs.co/blog/para/) method for organization, and automated daily note creation.  
 It focuses on steady, low-friction capture and reflection — designed to grow gradually, like a continuous learning loop.
-
----
 
 ## Core Ideas
 
@@ -35,8 +31,6 @@ It focuses on steady, low-friction capture and reflection — designed to grow g
 
 - 📚 **Continuous learning**  
   Technical notes, reflections, and plans are linked lightly and revisited periodically.
-
----
 
 ## Why “Luna Continuum”
 
