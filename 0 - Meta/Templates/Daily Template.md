@@ -34,6 +34,8 @@ tags: [<% tagsYaml %>]
 - What could be better:
 - Next action:
 
+<% tp.web.daily_quote() %>
+
 ---
 
 ## References

@@ -1,6 +1,6 @@
 <%*
 /* ---------- Prompts ---------- */
-const title = await tp.system.prompt("Note title");
+const title = await tp.system.prompt("Note title (cannot contain \\ / : * ? \" < > |)");
 tp.file.rename(title);
 const typeOptions = ["Project","Area","Resource","Archive","General Note"];
 const statusOptions = ["Idea","Draft","Active"];
@@ -19,7 +19,6 @@ date_created: "<% tp.file.creation_date('dddd, DD MMMM YYYY') %>"
 time_created: "<% tp.file.creation_date('hh:mm A') %>"
 tags: [<% tagsYaml %>]
 ---
-
 # <% title %>
 
 > **Summary** — one sentence on what this note is for.
