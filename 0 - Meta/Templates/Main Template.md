@@ -1,21 +1,22 @@
 <%*
 /* ---------- Prompts ---------- */
 const title = await tp.system.prompt("Note title");
+tp.file.rename(title);
 const typeOptions = ["Project","Area","Resource","Archive","General Note"];
-const statusOptions = ["Idea","Draft","Active","Archived"];
+const statusOptions = ["Idea","Draft","Active"];
 const status = await tp.system.suggester(statusOptions, statusOptions) ?? "Draft";
 const noteType = await tp.system.suggester(typeOptions, typeOptions) ?? "General Note";
 
-const tagInput = await tp.system.prompt("Tags (comma-separated, with or without #)", "notes, research") ?? "";
+const tagInput = await tp.system.prompt("Tags (comma-separated, with or without #)", "notes, ") ?? "";
 const tags = tagInput.split(",").map(t => t.trim().replace(/^#/, "")).filter(Boolean);
 const tagsYaml = tags.map(t => `"${t}"`).join(", ");
 -%>
 ---
-title: "<% title %>"
+filename: "<% title %>"
 type: "<% noteType %>"        # PARA category
 status: "<% status %>"        # Idea | Draft | Active | Archived
-created: "<% tp.file.creation_date('YYYY-MM-DD HH:mm') %>"
-updated: "<% tp.date.now('YYYY-MM-DD HH:mm') %>"
+date_created: "<% tp.file.creation_date('dddd, DD MMMM YYYY') %>"
+time_created: "<% tp.file.creation_date('hh:mm A') %>"
 tags: [<% tagsYaml %>]
 ---
 

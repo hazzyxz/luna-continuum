@@ -2,7 +2,7 @@
 /* --- Prompts --- */
 const tagInput = await tp.system.prompt(
   "Tags (comma-separated, with or without #)",
-  "daily, journal"
+  "daily, "
 ) ?? "";
 
 const tags = tagInput
@@ -15,8 +15,8 @@ const moodOptions = ["Bad 😫","Good 🙂","Great 🤩"];
 const mood = await tp.system.suggester(moodOptions, moodOptions) ?? "Good 🙂";
 -%>
 ---
-date: "<% tp.date.now('dddd, DD MMMM YYYY') %>"
-time_created: "<% tp.file.creation_date('HH:mm') %>"
+date_created: "<% tp.file.creation_date('dddd, DD MMMM YYYY') %>"
+time_created: "<% tp.file.creation_date('hh:mm A') %>"
 mood: "<% mood %>"
 tags: [<% tagsYaml %>]
 ---
