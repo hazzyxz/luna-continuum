@@ -1,6 +1,8 @@
 # Ignore Mac system files
 .DS_Store
 
+.obsidian/workspace.json
+
 .obsidian/plugins/*/
 !.obsidian/plugins/templater-obsidian/
 .obsidian/plugins/templater-obsidian/*
