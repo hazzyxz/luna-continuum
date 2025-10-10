@@ -22,14 +22,14 @@
 
 ## <a id="overview"></a> 🌔 Overview
 
-`luna-continuum` is a **public-facing Obsidian vault** — an ongoing experiment in thinking, writing, and learning in rhythm. Built upon the [PARA](https://fortelabs.co/blog/para/) framework, it automates the act of daily capture and reflection —  a space where ideas orbit, evolve, and align over time.
+`luna-continuum` is my **public-facing Obsidian vault** — an ongoing experiment to reduce my inability to commit into daily notes and reflection. Built upon the [PARA](https://fortelabs.co/blog/para/) framework, it automates the act of daily capture and reflection - more writing, less thinking of formats and tags.
 
 > _"Not everything grows in daylight — some thoughts need the calm of the moon."_
 
 ## <a id="philosophy"></a> 🪞 Philosophy
 
 - **Work in Progress, Always**  
-  Every note is a phase of thought — evolving with context, never static.
+  Every note is incomplete, hence more room to grow
 
 - **Low Friction, High Reflection**  
   Automated prompts (title, agenda, tags, mood) reduce resistance to writing.
@@ -38,7 +38,7 @@
   Projects and Areas stay alive; Resources and Archives preserve quiet continuity.
 
 - **Continuum over Completion**  
-  Knowledge is treated as a living stream — flowing, merging, revisited.
+  Notes are treated as a living stream — flowing, merging, revisited.
 
 ## <a id="namesymbolism"></a> 🌕 Name & Symbolism
 
@@ -68,17 +68,17 @@ Follow these steps to set up **Luna Continuum** as your personal Obsidian vault.
 
 1. Go to the **[Releases](https://github.com/hazzyxz/luna-continuum/releases)** page.  
 2. Download the **latest `.zip` file** (e.g., `luna-continuum-vX.X.X.zip`).
-
-### 🧩 2. Extract the Vault
-
-1. Locate the downloaded `.zip` file on your computer.  
-2. **Extract** (unzip) it to your preferred folder — for example:
+3. Locate the downloaded `.zip` file on your computer.  
 
 ```text
 C:\Users\YourName\Documents\ObsidianVaults\LunaContinuum
 ```
 
-### 🚀 3. Open in Obsidian
+**OR**
+
+1. Clone the repository.
+
+### 🚀 2. Open in Obsidian
 1. Open the **Obsidian** app on your computer.
 2. Click on **"Open another vault"** (or "Open folder as vault").
 3. Navigate to the folder where you extracted `luna-continuum` and select it
@@ -89,24 +89,30 @@ C:\Users\YourName\Documents\ObsidianVaults\LunaContinuum
     - Enable all plugins (Obsidian will prompt you to restart the app).
 6. Done! You can now start using **Luna Continuum** as your personal vault.
 
-### 🌟 4. Start Writing
-1. Press **Cmd + T** (macOS) or **Ctrl + T** (Windows/Linux).
-2. From the popup, select **“Main Template.”** 
-3. You’ll be prompted to enter:
+### 🌟 3. Start Writing
+
+#### 1. Daily Notes
+1. Upon startup, a new daily note will automatically be created if haven't already in **"2 - Daily Notes/"**.
+2. You'll be promted to enter **tags** and **mood** of the day.
+3. Begin writing!
+
+#### 2. Main Notes
+1. Press **Cmd + N** (macOS) or **Ctrl + N** (Windows/Linux).
+2. You’ll be prompted to enter:
     - **Title**
     - **Type**
     - **Status**
     - **Tags**
-4. Give your note a name and start writing!
+3. A new note will be created in **"1 - Main Notes/"**
+4. Begin writing!
 
-### ⚙️ 5. Extra
-- Daily Notes are automatically created upon startup every day.
-    - You'll be prompted to enter the **tags** and **mood** for each daily note.
-    - The daily note will be saved in the **"2 - Daily Notes/"** folder.
-    - Daily Notes names follow the format: `YYYY-MM-DD.md`
-- Tip: Move your main notes to the **"3 - Projects/"** or **"4 - Areas/"** folder if they belong to a specific project or area.
+#### 3. Tips
+- Your current and ongoing notes are in **"1 - Main Notes/"** but feel free to move them to **"3 - Projects/"** or **"4 - Areas/"** depending on your use case.
+- Attachments like PDFs and PNGs are automatically placed into **"5 - Resources/"**
 
-
-### 🌱 6. Enjoy
+### 🌱 4. Enjoy
 - **Embrace the Journey**  
   `luna-continuum` is a space for growth, where every note is a step forward. Enjoy the process of creating, reflecting, and evolving your ideas.
+
+[Disclaimer: *This repository was created primarily for my personal use — as a space to experiment, document, and refine my own Obsidian workflow.
+You’re welcome to explore, fork, or adapt anything here, but please note that configurations, plugins, and templates are tailored to my preferences and may not suit everyone out of the box.*]
