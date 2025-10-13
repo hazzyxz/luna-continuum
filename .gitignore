@@ -7,3 +7,5 @@
 !.obsidian/plugins/templater-obsidian/
 .obsidian/plugins/templater-obsidian/*
 !.obsidian/plugins/templater-obsidian/data.json
+
+.vscode/*
